@@ -1,6 +1,5 @@
 #pragma once
 #include "General.h"
-//https://blog.fpmurphy.com/2012/08/display-uefi-firmware-version-vendor-revision-and-build-date.html
 struct Information {
 	CHAR16* f1;
 	CHAR16* f2;
